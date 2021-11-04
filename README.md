@@ -1,2 +1,4 @@
 # Controlli-automaticiT
-Progetto esame di controlli automatici T
+
+Project for checking the positioning of a flexible link. Details in "Progetto Gruppo M.pdf"
+
